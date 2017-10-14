@@ -1,0 +1,10 @@
+
+include ':core'
+include ':java'
+//include ':junit'
+include ':android'
+
+//project(':core').projectDir = "$rootDir/core" as File
+//project(':java').projectDir = "$rootDir/java" as File
+////project(':cucumber-junit').projectDir = "$rootDir/junit" as File
+//project(':android').projectDir = "$rootDir/android" as File
