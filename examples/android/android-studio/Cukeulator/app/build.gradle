@@ -34,8 +34,7 @@ android {
 }
 
 dependencies {
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:2.0'
-    androidTestImplementation 'com.android.support.test:testing-support-lib:0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     androidTestImplementation 'io.cucumber:cucumber-android:2.3.0'
     androidTestImplementation 'io.cucumber:cucumber-picocontainer:2.3.1'
 }
